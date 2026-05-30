@@ -61,36 +61,6 @@ student-performance-predictor/
 └── README.md
 ```
 
----
-
-## How to Run
-
-1. Clone the repository
-
-```bash
-git clone https://github.com/Poulami2005/student-performance-predictor.git
-```
-
-2. Install required libraries
-
-```bash
-pip install flask pandas numpy scikit-learn joblib
-```
-
-3. Run the application
-
-```bash
-python app.py
-```
-
-4. Open in browser
-
-```plaintext
-http://127.0.0.1:5000
-```
-
----
-
 ## Future Improvements
 
 - Dark mode
